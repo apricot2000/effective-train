@@ -1,7 +1,7 @@
 #include <cstdio> //C++ Version
 //C Version
 //#include <stdio.h>
-#include "train.h"
+#include "train-math.h"
 int main(){
 	double x;
 	double y;
@@ -15,3 +15,4 @@ int main(){
 	while (1){}
 	return 0;
 }
+ch
